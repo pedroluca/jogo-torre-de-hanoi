@@ -1,4 +1,4 @@
-# jogo-torre-de-hanoi
+# Jogo: Torre de Hanoi
 
 Torre de Hanoi desenvolvida na linguagem C.
 
